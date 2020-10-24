@@ -141,7 +141,7 @@ input[type=text]{
     display: inline-block;
     border: 1px solid #cccccc;
 }
-.intro3{
+.thirdpage{
     text-align: center;
     background-image: url(&quot;cloud.jpg&quot;);
     background-size: cover;
