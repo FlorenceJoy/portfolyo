@@ -11,14 +11,14 @@ html{
     height: 100%;
 }
 .body2{
-    background-image: url("new-york-page.jpg");
+    background-image: url("new-york-page.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100%;
 }
 .body3{
-    background-image: url("contact-mountain.jpg");
+    background-image: url("contact-mountain.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
