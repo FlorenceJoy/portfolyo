@@ -69,20 +69,20 @@ margin-left:10%;
     font-family: &quot;Odachi&quot;;
     font-size: 30px;
 }
-.nav_link{
+.navbar{
     list-style: none;
 }
-.nav_link li{
+.navbar li{
     display: inline-block;
     padding: 0px 50px;
 }
-.nav_link li a:hover {
-    color: black;
+.navbar li a:hover {
+    color: red;
 }
-.nav_link li a{
+.navbar li a{
     transition:  all 0.3s ease 0s;
 }
-.intro1{
+.firstpage{
     text-align: center;
     font-size: 30px;
     color: white;
