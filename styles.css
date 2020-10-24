@@ -3,7 +3,7 @@ html{
     height: 100%;
 }
 .body1{
-    background-image: url(&quot;falls.jpg&quot;);
+    background-image: url("landing-page.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
@@ -11,14 +11,14 @@ html{
     height: 100%;
 }
 .body2{
-    background-image: url(&quot;city.jpg&quot;);
+    background-image: url("new-york-page.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100%;
 }
 .body3{
-    background-image: url(&quot;bundok.jpg&quot;);
+    background-image: url("contact-mountain.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
